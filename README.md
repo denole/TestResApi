@@ -18,7 +18,7 @@ Apporved User LOGIN DETAILS
     -password : showpassword
     -user-token : 732298dc8d9c867905438a0891f094ee16505784 -> Genereated token unique for each user
     -token auth url for authentication :e.g /api/token-auth/732298dc8d9c867905438a0891f094ee16505784/ : api endpoint
-    -endpoint for task list :e.g /api/db6d102d45c43865690a39cd8f769743daedcde8/tasks/  : api endpoint
+    -endpoint for task list :e.g /api/732298dc8d9c867905438a0891f094ee16505784/tasks/  : api endpoint
     
      
      
@@ -29,7 +29,7 @@ Apporved User LOGIN DETAILS
     -password :  showpassword
     -user-token : 8c839ce215b1f313d256c53eb6972e7a30992703 -> Genereated token unique for each user
     -token auth url for authentication : /api/token-auth/8c839ce215b1f313d256c53eb6972e7a30992703/ : api endpoint
-    -endpoint for task list :  /api/3b917d0d622cf5f8747251380cca69874ea8c0a5/tasks/
+    -endpoint for task list :  /api/8c839ce215b1f313d256c53eb6972e7a30992703/tasks/
     
     
  Registered User Cannot login, Unless Account is activated By Admin.
