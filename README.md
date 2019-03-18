@@ -5,7 +5,7 @@ a restfull api for demo project
 ADMIN LOGIN DETAILS
   - Admin Can login with username or email
     -username :  leo
-    -email    : adex@yahoo.com
+    -email    : 	leo@gmail.com
     -password : showpassword
 
 
