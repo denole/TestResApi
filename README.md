@@ -1,3 +1,4 @@
+
 # TestResApi
 a restfull api for demo project
 #LOGIN DETAILS
@@ -9,7 +10,7 @@ ADMIN LOGIN DETAILS
 
 
 
-NOTE : You Can Generate token for each user from the django admin page, Here are predefined login detail for existing users with token already generated to test rest api.    
+NOTE : You Can Generate token for each user from the django admin page, Here are predefined login detail for existing users with token already generated to test rest api, And also user session is not active (token based authentication)
     
 Apporved User LOGIN DETAILS
   - User Can login with username or email
@@ -35,3 +36,5 @@ Apporved User LOGIN DETAILS
  Registered User Cannot login, Unless Account is activated By Admin.
  Once Again,Sorry for delay.(I was not conversant with django rest framework, And as such a custom solution is time constrained.) 
  Thanks.
+ 
+
