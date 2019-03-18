@@ -10,7 +10,7 @@ ADMIN LOGIN DETAILS
 
 
 
-NOTE : You Can Generate token for each user from the django admin page, Here are predefined login detail for existing users with token already generated to test rest api, And also user session is not active (token based authentication)
+NOTE : You Can Generate token for each user from the django admin page, Here are predefined login detail for existing users with token already generated to test rest api, And also user session is not active (token based authentication), Not really mobile responsive but it's not bad though.
     
 Apporved User LOGIN DETAILS
   - User Can login with username or email
